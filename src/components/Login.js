@@ -125,7 +125,7 @@ export default class Login extends Component {
           className="btn btn-block btn-danger"
           disabled={!enable}
         >
-          Create User
+          Login
         </button>
       </form>
     );
